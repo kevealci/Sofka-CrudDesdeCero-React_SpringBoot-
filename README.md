@@ -1,5 +1,7 @@
 # Crud Básico Full Stack con React y SpringBoot
-Crud Full Stack con base de datos MySQL
+Crud Full Stack con base de datos MySQL.
+
+Se realizaron mejoras en el backend.
 
 ## Captura de pantalla del Front End
 
